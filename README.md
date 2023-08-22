@@ -4,15 +4,6 @@
 
 _So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice._
 
-Check the [contributions guideline](../master/contributions.md)
-
-Discuss this list in [Hacker News](https://news.ycombinator.com/item?id=15337556)
-
-Discuss this list in [Reddit r/engineering](https://redd.it/78dqn5) - *8.3k+ views and 770+ upvotes*
-
-Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
-
----
 
 <a name="toc"></a>Table of Contents
 -----------------
